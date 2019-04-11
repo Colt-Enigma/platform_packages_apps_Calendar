@@ -21,7 +21,7 @@
 
     <color name="pressed">#330066ff</color>
 
-    <color name="selection">@android:color/holo_blue_light</color>
+    <color name="selection">@android:color/primary_text_light</color>
 
     <color name="today_highlight_color">#0033b5e5</color>
 
